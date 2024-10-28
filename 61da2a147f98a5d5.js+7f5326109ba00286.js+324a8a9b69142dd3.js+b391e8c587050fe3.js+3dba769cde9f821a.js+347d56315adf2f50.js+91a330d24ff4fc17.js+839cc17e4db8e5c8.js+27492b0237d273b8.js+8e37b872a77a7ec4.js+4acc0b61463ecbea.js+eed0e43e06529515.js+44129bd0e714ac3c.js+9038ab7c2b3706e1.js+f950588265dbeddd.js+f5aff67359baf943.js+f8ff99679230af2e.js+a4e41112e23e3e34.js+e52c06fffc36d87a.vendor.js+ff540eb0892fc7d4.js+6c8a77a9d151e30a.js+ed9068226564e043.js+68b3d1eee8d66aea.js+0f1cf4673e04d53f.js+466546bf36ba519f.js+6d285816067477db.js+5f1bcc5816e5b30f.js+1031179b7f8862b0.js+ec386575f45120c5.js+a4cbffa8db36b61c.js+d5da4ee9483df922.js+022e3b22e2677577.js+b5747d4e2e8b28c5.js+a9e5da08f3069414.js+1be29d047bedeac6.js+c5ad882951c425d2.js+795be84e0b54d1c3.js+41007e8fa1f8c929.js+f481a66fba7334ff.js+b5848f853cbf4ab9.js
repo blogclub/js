@@ -1,7 +1,7 @@
 ; // __FILE_CONTENT_FOR__:61da2a147f98a5d5.js
 (self["webpackChunk_canva_web"] = self["webpackChunk_canva_web"] || []).push([[52368], {
 
-    /***/
+    /****/
     105206:
     function(_, __, __webpack_require__) {
         __webpack_require__.n_x = __webpack_require__.n;
